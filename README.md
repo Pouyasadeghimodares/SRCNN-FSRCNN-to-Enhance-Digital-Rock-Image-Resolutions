@@ -66,7 +66,6 @@ PSNR was calculated on the single channel.
         <td><center>Low-Resolution Image</center></td>
         <td><center>Reconstructed Image with SRCNN</center></td>
         <td><center>Reconstructed Image with FSRCNN</center></td>
-        <td><center>High-Resolution Image</center></td>
     </tr>
     <tr>
     	<td>
@@ -77,9 +76,6 @@ PSNR was calculated on the single channel.
     	</td>
     	<td>
     		<center><img src="./Images/FSRCNN.jpg"></center>
-        </td>
-        </td>
-    		<center><img src="./Images/HR.jpg"></center>
     	</td>
     </tr>
 </table>
