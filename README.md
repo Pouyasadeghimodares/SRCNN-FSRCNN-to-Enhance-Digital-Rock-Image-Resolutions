@@ -70,16 +70,16 @@ PSNR was calculated on the single channel.
     </tr>
     <tr>
     	<td>
-    		<center><img src="./images/LR.jpg""></center>
+    		<center><img src="./Images/LR.jpg""></center>
     	</td>
     	<td>
-    		<center><img src="./images/SRCNN.jpg"></center>
+    		<center><img src="./Images/SRCNN.jpg"></center>
     	</td>
     	<td>
-    		<center><img src="./images/FSRCNN.jpg"></center>
+    		<center><img src="./Images/FSRCNN.jpg"></center>
         </td>
         </td>
-    		<center><img src="./images/HR.jpg"></center>
+    		<center><img src="./Images/HR.jpg"></center>
     	</td>
     </tr>
 </table>
